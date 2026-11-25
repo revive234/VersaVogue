@@ -14,7 +14,7 @@ Jian Yu<sup>\*</sup> , Fei Shen <sup>\*</sup>, Cong Wang , Yi Xin , Si Shen ,  X
 ![architecture](./assets/framework.jpg)
 
 
-## 🔧 Requirements
+<!-- ## 🔧 Requirements
 
 - Python>=3.8
 - [PyTorch>=2.0.0](https://pytorch.org/)
@@ -39,7 +39,7 @@ sh train.sh
 
 # Inference 
 sh inference.sh
-```
+``` -->
 
 ## Citation
 ```bibtex
